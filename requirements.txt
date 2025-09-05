@@ -1,0 +1,5 @@
+python-dotenv
+pydantic
+openai
+# openai-agents
+# openai-agent[voice]

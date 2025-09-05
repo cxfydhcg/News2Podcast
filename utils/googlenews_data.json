@@ -1,0 +1,380 @@
+{
+    "U.S.": {
+        "Category": "Headline",
+        "Topic": "U.S.",
+        "Topic ID": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+        "URL": "https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "World": {
+        "Category": "Headline",
+        "Topic": "World",
+        "Topic ID": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+        "URL": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Politics": {
+        "Category": "Headline",
+        "Topic": "Politics",
+        "Topic ID": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFZ4ZERBU0FtVnVLQUFQAQ",
+        "URL": "https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFZ4ZERBU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Entertainment": {
+        "Category": "Entertainment",
+        "Topic": "Entertainment",
+        "Topic ID": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+        "URL": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Celebrities": {
+        "Category": "Entertainment",
+        "Topic": "Celebrities",
+        "Topic ID": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNREZ5Wm5vU0FtVnVLQUFQAQ",
+        "URL": "https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNREZ5Wm5vU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "TV": {
+        "Category": "Entertainment",
+        "Topic": "TV",
+        "Topic ID": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNRGRqTlRJU0FtVnVLQUFQAQ",
+        "URL": "https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRGRqTlRJU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Music": {
+        "Category": "Entertainment",
+        "Topic": "Music",
+        "Topic ID": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFJ5YkdZU0FtVnVLQUFQAQ",
+        "URL": "https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFJ5YkdZU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Movies": {
+        "Category": "Entertainment",
+        "Topic": "Movies",
+        "Topic ID": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNREoyZUc0U0FtVnVLQUFQAQ",
+        "URL": "https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNREoyZUc0U0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Theater": {
+        "Category": "Entertainment",
+        "Topic": "Theater",
+        "Topic ID": "CAAqJAgKIh5DQkFTRUFvS0wyMHZNRE54YzJSd2F4SUNaVzRvQUFQAQ",
+        "URL": "https://news.google.com/topics/CAAqJAgKIh5DQkFTRUFvS0wyMHZNRE54YzJSd2F4SUNaVzRvQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Sports": {
+        "Category": "Sports",
+        "Topic": "Sports",
+        "Topic ID": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+        "URL": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Soccer": {
+        "Category": "Sports",
+        "Topic": "Soccer",
+        "Topic ID": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNREoyZURRU0FtVnVLQUFQAQ",
+        "URL": "https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNREoyZURRU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Cycling": {
+        "Category": "Sports",
+        "Topic": "Cycling",
+        "Topic ID": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNREZ6WjJ3U0FtVnVLQUFQAQ",
+        "URL": "https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNREZ6WjJ3U0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Motor sports": {
+        "Category": "Sports",
+        "Topic": "Motor sports",
+        "Topic ID": "CAAqJAgKIh5DQkFTRUFvS0wyMHZNRFF4TUhSMGFCSUNaVzRvQUFQAQ",
+        "URL": "https://news.google.com/topics/CAAqJAgKIh5DQkFTRUFvS0wyMHZNRFF4TUhSMGFCSUNaVzRvQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Tennis": {
+        "Category": "Sports",
+        "Topic": "Tennis",
+        "Topic ID": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNRGRpY3pBU0FtVnVLQUFQAQ",
+        "URL": "https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRGRpY3pBU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Combat sports": {
+        "Category": "Sports",
+        "Topic": "Combat sports",
+        "Topic ID": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRFZyWXpJNUVnSmxiaWdBUAE",
+        "URL": "https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNRFZyWXpJNUVnSmxiaWdBUAE?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Basketball": {
+        "Category": "Sports",
+        "Topic": "Basketball",
+        "Topic ID": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNREU0ZHpnU0FtVnVLQUFQAQ",
+        "URL": "https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNREU0ZHpnU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Baseball": {
+        "Category": "Sports",
+        "Topic": "Baseball",
+        "Topic ID": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNREU0YW5vU0FtVnVLQUFQAQ",
+        "URL": "https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNREU0YW5vU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Football": {
+        "Category": "Sports",
+        "Topic": "Football",
+        "Topic ID": "CAAqIAgKIhpDQkFTRFFvSEwyMHZNR3B0WHhJQ1pXNG9BQVAB",
+        "URL": "https://news.google.com/topics/CAAqIAgKIhpDQkFTRFFvSEwyMHZNR3B0WHhJQ1pXNG9BQVAB?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Sports betting": {
+        "Category": "Sports",
+        "Topic": "Sports betting",
+        "Topic ID": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRFIwTXpsa0VnSmxiaWdBUAE",
+        "URL": "https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNRFIwTXpsa0VnSmxiaWdBUAE?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Water sports": {
+        "Category": "Sports",
+        "Topic": "Water sports",
+        "Topic ID": "CAAqIggKIhxDQkFTRHdvSkwyMHZNREptYUdSbUVnSmxiaWdBUAE",
+        "URL": "https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNREptYUdSbUVnSmxiaWdBUAE?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Hockey": {
+        "Category": "Sports",
+        "Topic": "Hockey",
+        "Topic ID": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNRE4wYlhJU0FtVnVLQUFQAQ",
+        "URL": "https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRE4wYlhJU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Golf": {
+        "Category": "Sports",
+        "Topic": "Golf",
+        "Topic ID": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNRE0zYUhvU0FtVnVLQUFQAQ",
+        "URL": "https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRE0zYUhvU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Cricket": {
+        "Category": "Sports",
+        "Topic": "Cricket",
+        "Topic ID": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNRGw0Y0Y4U0FtVnVLQUFQAQ",
+        "URL": "https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRGw0Y0Y4U0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Rugby": {
+        "Category": "Sports",
+        "Topic": "Rugby",
+        "Topic ID": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFppY2pnU0FtVnVLQUFQAQ",
+        "URL": "https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFppY2pnU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Business": {
+        "Category": "Business",
+        "Topic": "Business",
+        "Topic ID": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+        "URL": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Economy": {
+        "Category": "Business",
+        "Topic": "Economy",
+        "Topic ID": "CAAqIggKIhxDQkFTRHdvSkwyMHZNR2RtY0hNekVnSmxiaWdBUAE",
+        "URL": "https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNR2RtY0hNekVnSmxiaWdBUAE?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Personal finance": {
+        "Category": "Business",
+        "Topic": "Personal finance",
+        "Topic ID": "CAAqIggKIhxDQkFTRHdvSkwyMHZNREY1Tm1OeEVnSmxiaWdBUAE",
+        "URL": "https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNREY1Tm1OeEVnSmxiaWdBUAE?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Finance": {
+        "Category": "Business",
+        "Topic": "Finance",
+        "Topic ID": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNREpmTjNRU0FtVnVLQUFQAQ",
+        "URL": "https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNREpmTjNRU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Digital currencies": {
+        "Category": "Business",
+        "Topic": "Digital currencies",
+        "Topic ID": "CAAqJAgKIh5DQkFTRUFvS0wyMHZNSEk0YkhsM054SUNaVzRvQUFQAQ",
+        "URL": "https://news.google.com/topics/CAAqJAgKIh5DQkFTRUFvS0wyMHZNSEk0YkhsM054SUNaVzRvQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Technology": {
+        "Category": "Technology",
+        "Topic": "Technology",
+        "Topic ID": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+        "URL": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Mobile": {
+        "Category": "Technology",
+        "Topic": "Mobile",
+        "Topic ID": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFV3YXpnU0FtVnVLQUFQAQ",
+        "URL": "https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFV3YXpnU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Energy": {
+        "Category": "Technology",
+        "Topic": "Energy",
+        "Topic ID": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNREp0YlY4U0FtVnVLQUFQAQ",
+        "URL": "https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNREp0YlY4U0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Gaming": {
+        "Category": "Technology",
+        "Topic": "Gaming",
+        "Topic ID": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNREZ0ZHpFU0FtVnVLQUFQAQ",
+        "URL": "https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNREZ0ZHpFU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Internet security": {
+        "Category": "Technology",
+        "Topic": "Internet security",
+        "Topic ID": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRE5xWm01NEVnSmxiaWdBUAE",
+        "URL": "https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNRE5xWm01NEVnSmxiaWdBUAE?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Gadgets": {
+        "Category": "Technology",
+        "Topic": "Gadgets",
+        "Topic ID": "CAAqIggKIhxDQkFTRHdvSkwyMHZNREp0WmpGdUVnSmxiaWdBUAE",
+        "URL": "https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNREp0WmpGdUVnSmxiaWdBUAE?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Virtual reality": {
+        "Category": "Technology",
+        "Topic": "Virtual reality",
+        "Topic ID": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNRGRmYm5rU0FtVnVLQUFQAQ",
+        "URL": "https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRGRmYm5rU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Robotics": {
+        "Category": "Technology",
+        "Topic": "Robotics",
+        "Topic ID": "CAAqJAgKIh5DQkFTRUFvS0wyMHZNREp3TUhRMVpoSUNaVzRvQUFQAQ",
+        "URL": "https://news.google.com/topics/CAAqJAgKIh5DQkFTRUFvS0wyMHZNREp3TUhRMVpoSUNaVzRvQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Health": {
+        "Category": "Health",
+        "Topic": "Health",
+        "Topic ID": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+        "URL": "https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Nutrition": {
+        "Category": "Health",
+        "Topic": "Nutrition",
+        "Topic ID": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFZrYW1NU0FtVnVLQUFQAQ",
+        "URL": "https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFZrYW1NU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Public health": {
+        "Category": "Health",
+        "Topic": "Public health",
+        "Topic ID": "CAAqIggKIhxDQkFTRHdvSkwyMHZNREpqYlRZeEVnSmxiaWdBUAE",
+        "URL": "https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNREpqYlRZeEVnSmxiaWdBUAE?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Mental health": {
+        "Category": "Health",
+        "Topic": "Mental health",
+        "Topic ID": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRE40TmpsbkVnSmxiaWdBUAE",
+        "URL": "https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNRE40TmpsbkVnSmxiaWdBUAE?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Medicine": {
+        "Category": "Health",
+        "Topic": "Medicine",
+        "Topic ID": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFJ6YURNU0FtVnVLQUFQAQ",
+        "URL": "https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFJ6YURNU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Science": {
+        "Category": "Science",
+        "Topic": "Science",
+        "Topic ID": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+        "URL": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Space": {
+        "Category": "Science",
+        "Topic": "Space",
+        "Topic ID": "CAAqIggKIhxDQkFTRHdvSkwyMHZNREU0TXpOM0VnSmxiaWdBUAE",
+        "URL": "https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNREU0TXpOM0VnSmxiaWdBUAE?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Wildlife": {
+        "Category": "Science",
+        "Topic": "Wildlife",
+        "Topic ID": "CAAqJAgKIh5DQkFTRUFvS0wyY3ZNVE5pWWw5MGN4SUNaVzRvQUFQAQ",
+        "URL": "https://news.google.com/topics/CAAqJAgKIh5DQkFTRUFvS0wyY3ZNVE5pWWw5MGN4SUNaVzRvQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Environment": {
+        "Category": "Science",
+        "Topic": "Environment",
+        "Topic ID": "CAAqIggKIhxDQkFTRHdvSkwyMHZNREp3ZVRBNUVnSmxiaWdBUAE",
+        "URL": "https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNREp3ZVRBNUVnSmxiaWdBUAE?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Neuroscience": {
+        "Category": "Science",
+        "Topic": "Neuroscience",
+        "Topic ID": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFZpTm1NU0FtVnVLQUFQAQ",
+        "URL": "https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFZpTm1NU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Physics": {
+        "Category": "Science",
+        "Topic": "Physics",
+        "Topic ID": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFZ4YW5RU0FtVnVLQUFQAQ",
+        "URL": "https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFZ4YW5RU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Geology": {
+        "Category": "Science",
+        "Topic": "Geology",
+        "Topic ID": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNRE0yYUhZU0FtVnVLQUFQAQ",
+        "URL": "https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRE0yYUhZU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Paleontology": {
+        "Category": "Science",
+        "Topic": "Paleontology",
+        "Topic ID": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFZ5YW13U0FtVnVLQUFQAQ",
+        "URL": "https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFZ5YW13U0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Social sciences": {
+        "Category": "Science",
+        "Topic": "Social sciences",
+        "Topic ID": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFp1Tm5BU0FtVnVLQUFQAQ",
+        "URL": "https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFp1Tm5BU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Education": {
+        "Category": "Education",
+        "Topic": "Education",
+        "Topic ID": "CAAqJQgKIh9DQkFTRVFvTEwyY3ZNVEl4Y0Raa09UQVNBbVZ1S0FBUAE",
+        "URL": "https://news.google.com/topics/CAAqJQgKIh9DQkFTRVFvTEwyY3ZNVEl4Y0Raa09UQVNBbVZ1S0FBUAE?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Jobs": {
+        "Category": "Education",
+        "Topic": "Jobs",
+        "Topic ID": "CAAqJAgKIh5DQkFTRUFvS0wyMHZNRFF4TVRWME1oSUNaVzRvQUFQAQ",
+        "URL": "https://news.google.com/topics/CAAqJAgKIh5DQkFTRUFvS0wyMHZNRFF4TVRWME1oSUNaVzRvQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Higher education": {
+        "Category": "Education",
+        "Topic": "Higher education",
+        "Topic ID": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNRE55TlRVU0FtVnVLQUFQAQ",
+        "URL": "https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRE55TlRVU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Vehicles": {
+        "Category": "Lifestyle",
+        "Topic": "Vehicles",
+        "Topic ID": "CAAqIAgKIhpDQkFTRFFvSEwyMHZNR3MwYWhJQ1pXNG9BQVAB",
+        "URL": "https://news.google.com/topics/CAAqIAgKIhpDQkFTRFFvSEwyMHZNR3MwYWhJQ1pXNG9BQVAB?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Arts & design": {
+        "Category": "Lifestyle",
+        "Topic": "Arts & design",
+        "Topic ID": "CAAqIAgKIhpDQkFTRFFvSEwyMHZNR3BxZHhJQ1pXNG9BQVAB",
+        "URL": "https://news.google.com/topics/CAAqIAgKIhpDQkFTRFFvSEwyMHZNR3BxZHhJQ1pXNG9BQVAB?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Beauty": {
+        "Category": "Lifestyle",
+        "Topic": "Beauty",
+        "Topic ID": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNREZtTkRNU0FtVnVLQUFQAQ",
+        "URL": "https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNREZtTkRNU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Food": {
+        "Category": "Lifestyle",
+        "Topic": "Food",
+        "Topic ID": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNREozWW0wU0FtVnVLQUFQAQ",
+        "URL": "https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNREozWW0wU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Travel": {
+        "Category": "Lifestyle",
+        "Topic": "Travel",
+        "Topic ID": "CAAqIggKIhxDQkFTRHdvSkwyMHZNREUwWkhONEVnSmxiaWdBUAE",
+        "URL": "https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNREUwWkhONEVnSmxiaWdBUAE?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Shopping": {
+        "Category": "Lifestyle",
+        "Topic": "Shopping",
+        "Topic ID": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR2hvWkdJU0FtVnVLQUFQAQ",
+        "URL": "https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNR2hvWkdJU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Home": {
+        "Category": "Lifestyle",
+        "Topic": "Home",
+        "Topic ID": "CAAqIggKIhxDQkFTRHdvSkwyMHZNREZzTUcxM0VnSmxiaWdBUAE",
+        "URL": "https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNREZzTUcxM0VnSmxiaWdBUAE?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Outdoors": {
+        "Category": "Lifestyle",
+        "Topic": "Outdoors",
+        "Topic ID": "CAAqJAgKIh5DQkFTRUFvS0wyMHZNRFZpTUc0M2F4SUNaVzRvQUFQAQ",
+        "URL": "https://news.google.com/topics/CAAqJAgKIh5DQkFTRUFvS0wyMHZNRFZpTUc0M2F4SUNaVzRvQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "Fashion": {
+        "Category": "Lifestyle",
+        "Topic": "Fashion",
+        "Topic ID": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNRE15ZEd3U0FtVnVLQUFQAQ",
+        "URL": "https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRE15ZEd3U0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen"
+    }
+}
